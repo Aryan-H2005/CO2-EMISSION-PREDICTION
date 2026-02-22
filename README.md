@@ -95,3 +95,8 @@ Automotive companies evaluate eco-friendliness
 Smart city platforms monitor vehicle pollution
 
 Policy makers design sustainable transportation strategies
+
+## LIVE : https://co2-emission-prediction-j4w5.onrender.com/docs
+
+# 🙎‍♂️ AUTHOR 
+## Aryan Narendra Harke
